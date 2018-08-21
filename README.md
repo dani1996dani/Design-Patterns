@@ -3,3 +3,4 @@ Example Code for Design Patterns
 1. Adapter
 2. Prototype
 3. Visitor
+4. Composite
